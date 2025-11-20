@@ -265,6 +265,7 @@
 				DEVELOPMENT_TEAM = H362252CUM;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSAppleMusicUsageDescription = "AISourceSearch uses the media library to find matches";
 				INFOPLIST_KEY_NSCameraUsageDescription = "AISourceSearch uses the camera to find matches";
 				INFOPLIST_KEY_NSDocumentsFolderUsageDescription = "AISourceSearch uses files from your device to find matches";
 				INFOPLIST_KEY_NSUserTrackingUsageDescription = "AISourceSearch uses data to improve user experience";
@@ -305,6 +306,7 @@
 				DEVELOPMENT_TEAM = H362252CUM;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSAppleMusicUsageDescription = "AISourceSearch uses the media library to find matches";
 				INFOPLIST_KEY_NSCameraUsageDescription = "AISourceSearch uses the camera to find matches";
 				INFOPLIST_KEY_NSDocumentsFolderUsageDescription = "AISourceSearch uses files from your device to find matches";
 				INFOPLIST_KEY_NSUserTrackingUsageDescription = "AISourceSearch uses data to improve user experience";
