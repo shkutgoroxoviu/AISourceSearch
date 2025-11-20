@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "onboardPhoto.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
